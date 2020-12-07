@@ -2,13 +2,13 @@
 
 ### Get started
 
-To open and start the webRTC demo first clone the enclosing git repo:
+To open and start the webRTC demo first clone repo:
 
-`git clone https://github.com/jaqarrick/webrtc-info.git `
+`git clone https://github.com/jaqarrick/webrtc-demo.git `
 
 Navigate into the demo directory and install the node modules:
 
-`cd webrtc-info/demo && npm i`
+`cd webrtc-demo && npm i`
 
 To boot up the server run `npm start`
 
