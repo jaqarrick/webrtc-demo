@@ -1,3 +1,5 @@
+console.log(adapter)
+
 //connect to the backend socket.io server for signaling
 const socket = io()
 const videoWrapper = document.querySelector("#video-wrapper")
